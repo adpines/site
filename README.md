@@ -1,1 +1,1 @@
-Code for my gh-pages site.
+Code for my github pages site.
