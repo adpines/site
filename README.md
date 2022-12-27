@@ -1,1 +1,1 @@
-Code for my github pages site.
+Code for my pages site.
