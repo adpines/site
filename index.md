@@ -20,7 +20,7 @@ _“Every science begins as philosophy and ends as art"_
 > _[Replication Guide](https://github.com/PennLINC/multiscale)_
 
 
-### [Leveraging multi-shell diffusion for studies of brain development in youth and young adulthood]()
+### [Leveraging multi-shell diffusion for studies of brain development in youth and young adulthood](https://www.sciencedirect.com/science/article/pii/S1878929320300360?via%3Dihub)
 
 > Pines, Cieslak, Larsen ... & Satterthwaite, 2020
 
