@@ -120,7 +120,7 @@ Out of respect for the complexity of the developing brain, I integrate across st
 
 Out of respect for the scientific community and gratitude for previous generation of open-source scientific code, I've created walkthroughs for all of my code underlying every analysis in my first-author papers since learning how to code. All of the code within these walkthroughs (and the walkthroughs themselves) have been independently verified to work as intended by particularly stalwart co-authors. For example, [in this pre-print](https://www.biorxiv.org/content/10.1101/2022.06.14.496175v1), we were able to build off of fantastic code bases for spherical registration of cortical surfaces ([freesurfer](https://surfer.nmr.mgh.harvard.edu/)) and for [tracing the migration of progenitor cells on spherical zebrafish gastrulas](https://link.springer.com/article/10.1007/s10851-014-0513-4) to construct, validate, hypothesis-test with, and [dissemniate](https://github.com/PennLINC/DevProps) a pipeline for tracking and quantifying the hierarchical movement of cortical activity.
 
-Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre improvisational musician, enjoy backpacking trips into the mountains with friends, am a recovering personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. 
+Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre improvisational musician, enjoy backpacking trips into the mountains with friends, am an ex-personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. 
 
 |||
 
