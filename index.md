@@ -124,5 +124,37 @@ Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre 
 
 |||
 
+Thanks for reading. Here are some findings I'd like to highlight:
+
+![image](/images/IndivVar.png)
+
+^^^ Where in the cortex individual variability in functional arealization localizes is dependent on how granular your definition of functional networks is. More granular = more variability in higher-order cortices. From my nature comms paper.
+
+![image](/images/FunctionalDifferentiation.png)
+
+^^^ Functional differentiation proceeds from lower-order to higher-order cortices in development, such that a single unimodal-to-transmodal gradient explains most (r^2=.71) of the developmental variability we observed across functional networks. Functional differentiation is associated with enhanced cognitive capacity, and de-differentiation seems to follow the same spatial trajectory years-to-decades later (still waiting to run this on full lifespan data). From my nature comms paper.
+ 
+![image](/images/HierarchicalDistance.png)
+
+^^^ Hierarchical distance provides a parsimonious description of how individual edges in the functional connectome develop. Check out figure S9 to see how it lines up relative to other edge-level descriptions of neurodevelopment. From my nature comms paper.
+
+![image](/images/OpFlSchematic.png)
+
+^^^ Optical flow can be used to delineate bottom-up and top-down hierarchical propagations in fMRI data. From my neuron paper.
+
+![image](/images/PropsCommon.png)
+
+^^^ Both bottom-up and top-down propagations are common in all individuals we tested. 2 of 5 verifications of this finding depicted in this figure. From my neuron paper.
+
+![image](/images/DevelTopDown.png)
+
+^^^ Top-down propagations become increasingly prominent over neurodevelopment. Not pictured is the same results 100% holding after controlling for previously known properties of functional neurodevelopment. From my neuron paper. 
+
+![image](/images/Multishell.png)
+
+^^^ Multi-shell diffusion weighted imaging can be leveraged to confer increased sensitivity to neurodevelopmental effects and decreased sensitivity to the confounding influence of head motion in neurodevelopmental studies. Schematic from my developmental cog. neurosci. paper.
+
+|||
+
 _"Every science begins as philosophy and ends as art; it arises in hypothesis and flows into achievement. Philosophy is a hypothetical interpretation of the unknown (as in metaphysics), or of the inexactly known (as in ethics or political philosophy); it is the front trench in the siege of truth. Science is the captured territory; and behind it are those secure regions in which knowledge and art build our imperfect and marvelous world" - Durant_
 
