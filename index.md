@@ -19,6 +19,11 @@ _“Every science begins as philosophy and ends as art"_
 
 > _[Replication Guide](https://github.com/PennLINC/multiscale)_
 
+### [Development of Top-Down Cortical Propagations in Youth](https://www.cell.com/neuron/fulltext/S0896-6273(23)00038-7)
+
+> Pines, Keller, Larsen ... & Satterthwaite
+
+> _[Replication Guide](https://github.com/PennLINC/DevProps)_
 
 ### [Leveraging multi-shell diffusion for studies of brain development in youth and young adulthood](https://www.sciencedirect.com/science/article/pii/S1878929320300360?via%3Dihub)
 
@@ -94,11 +99,9 @@ _“Every science begins as philosophy and ends as art"_
 
 # Preprints
 
-### [Development of Top-Down Cortical Propagations in Youth](https://www.biorxiv.org/content/10.1101/2022.06.14.496175v1)
+### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in Youth](https://www.biorxiv.org/content/10.1101/2023.01.25.525577v1)
 
-> Pines, Keller, Larsen ... & Satterthwaite
-
-> _[Replication Guide](https://github.com/PennLINC/DevProps)_
+> Mehta, Pines, Adebimpe ... & Satterthwaite
 
 ### [Personalized Functional Brain Network Topography Predicts Individual Differences in Youth Cognition](https://www.biorxiv.org/content/10.1101/2022.10.11.511823v1)
 
