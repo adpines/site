@@ -129,6 +129,10 @@ _“Every science begins as philosophy and ends as art"_
 
 > Yang, Wu, Li ... & Cui
 
+### [A Precision Functional Atlas of Network Probabilities and Individual-Specific Network Topography](https://www.biorxiv.org/content/10.1101/2022.01.12.475422v1)
+
+> Hermosillo, Moore, Fezcko ... & Fair
+
 ### [Conserved whole-brain spatiomolecular gradients shape adult brain functional organization](https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1)
 
 > Vogel, Alexander-Bloch, Wagstyl ... & Seidlitz
