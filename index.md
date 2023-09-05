@@ -13,17 +13,23 @@ _“Every science begins as philosophy and ends as art"_
 
 ### First-author
 
+### [Co-existence of negative and positive associations between cognition and intergenerational psychiatric symptoms reveal necessity of socioeconomic and clinical enrichment](https://www.medrxiv.org/content/10.1101/2023.08.28.23294743v1)
+
+> Pines, Tozzi, Bertrand ... & Williams
+
+> _[Replication Guide](https://github.com/WilliamsPanLab/gp)_
+
+### [Development of Top-Down Cortical Propagations in Youth](https://www.cell.com/neuron/fulltext/S0896-6273(23)00038-7)
+
+> Pines, Keller, Larsen ... & Satterthwaite, 2023
+
+> _[Replication Guide](https://github.com/PennLINC/DevProps)_
+
 ### [Dissociable multi-scale patterns of development in personalized brain networks](https://www.nature.com/articles/s41467-022-30244-4)
 
 > Pines, Larsen, Cui ... & Satterthwaite, 2022
 
 > _[Replication Guide](https://github.com/PennLINC/multiscale)_
-
-### [Development of Top-Down Cortical Propagations in Youth](https://www.cell.com/neuron/fulltext/S0896-6273(23)00038-7)
-
-> Pines, Keller, Larsen ... & Satterthwaite
-
-> _[Replication Guide](https://github.com/PennLINC/DevProps)_
 
 ### [Leveraging multi-shell diffusion for studies of brain development in youth and young adulthood](https://www.sciencedirect.com/science/article/pii/S1878929320300360?via%3Dihub)
 
@@ -36,6 +42,10 @@ _“Every science begins as philosophy and ends as art"_
 > Pines, Sacchet, Kullar .... & Williams, 2018
 
 ### Co-author
+
+### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in children, adolescents, and adults](https://www.sciencedirect.com/science/article/pii/S1878929323000701?via%3Dihub)
+
+> Mehta, Pines, Adebimpe ... & Satterthwaite, 2023
 
 ### [Linking Individual Differences in Personalized Functional Network Topography to Psychopathology in Youth](/https://www.sciencedirect.com/science/article/pii/S0006322322012513)
 
@@ -99,17 +109,25 @@ _“Every science begins as philosophy and ends as art"_
 
 # Preprints
 
-### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in Youth](https://www.biorxiv.org/content/10.1101/2023.01.25.525577v1)
-
-> Mehta, Pines, Adebimpe ... & Satterthwaite
-
 ### [Personalized Functional Brain Network Topography Predicts Individual Differences in Youth Cognition](https://www.biorxiv.org/content/10.1101/2022.10.11.511823v1)
 
 > Keller, Pines, Sydnor ... & Satterthwaite
 
+### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.biorxiv.org/content/10.1101/2023.07.20.549090v1)
+
+> Luo, Sydnor, Pines ... & Satterthwaite
+
 ### [Compression supports low-dimensional representations of behavior across neural circuits](https://www.biorxiv.org/content/10.1101/2022.11.29.518415v1)
 
 > Zhou, Kim, Pines ... & Bassett
+
+### [A general exposome factor explains individual differences in functional brain network topography and cognition in youth](https://www.biorxiv.org/content/10.1101/2023.08.25.554893v1)
+
+> Keller, Moore, Luo ... & Barzilay
+
+### [Connectional Hierarchy in Human Brain Revealed by Individual Variability of Functional Network Edges](https://www.biorxiv.org/content/10.1101/2023.03.08.531800v1.abstract)
+
+> Yang, Wu, Li ... & Cui
 
 ### [Conserved whole-brain spatiomolecular gradients shape adult brain functional organization](https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1)
 
@@ -123,7 +141,7 @@ Out of respect for the complexity of the developing brain, I integrate across st
 
 Out of respect for the scientific community and gratitude for previous generation of open-source scientific code, I've created walkthroughs for all of my code underlying every analysis in my first-author papers since learning how to code. All of the code within these walkthroughs (and the walkthroughs themselves) have been independently verified to work as intended by particularly stalwart co-authors. For example, [in this pre-print](https://www.biorxiv.org/content/10.1101/2022.06.14.496175v1), we were able to build off of fantastic code bases for spherical registration of cortical surfaces ([freesurfer](https://surfer.nmr.mgh.harvard.edu/)) and for [tracing the migration of progenitor cells on spherical zebrafish gastrulas](https://link.springer.com/article/10.1007/s10851-014-0513-4) to construct, validate, hypothesis-test with, and [dissemniate](https://github.com/PennLINC/DevProps) a pipeline for tracking and quantifying the hierarchical movement of cortical activity.
 
-Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre improvisational musician, enjoy backpacking trips into the mountains with friends, am an ex-personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. 
+Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre improvisational musician, enjoy backpacking into the mountains with friends, am an ex-personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. 
 
 |||
 
@@ -131,31 +149,31 @@ Thanks for reading. Here are some findings I'd like to highlight:
 
 ![image](/images/IndivVar.png)
 
-^^^ Where in the cortex individual variability in functional arealization localizes is dependent on how granular your definition of functional networks is. More granular = more variability in higher-order cortices. From my nature comms paper.
+Where in the cortex individual variability in functional arealization localizes is dependent on how granular your definition of functional networks is. More granular = more variability in higher-order cortices. From my nature comms paper.
 
 ![image](/images/FunctionalDifferentiation.png)
 
-^^^ Functional differentiation proceeds from lower-order to higher-order cortices in development, such that a single unimodal-to-transmodal gradient explains most (r^2=.71) of the developmental variability we observed across functional networks. Functional differentiation is associated with enhanced cognitive capacity, and de-differentiation seems to follow the same spatial trajectory years-to-decades later (still waiting to run this on full lifespan data). From my nature comms paper.
+Functional differentiation proceeds from lower-order to higher-order cortices in development, such that a single unimodal-to-transmodal gradient explains most (r^2=.71) of the developmental variability we observed across functional networks. Functional differentiation is associated with enhanced cognitive capacity, and de-differentiation seems to follow the same spatial trajectory years-to-decades later (still waiting to run this on full lifespan data). From my nature comms paper.
  
 ![image](/images/HierarchicalDistance.png)
 
-^^^ Hierarchical distance provides a parsimonious description of how individual edges in the functional connectome develop. Check out figure S9 to see how it lines up relative to other edge-level descriptions of neurodevelopment. From my nature comms paper.
+Hierarchical distance provides a parsimonious description of how individual edges in the functional connectome develop. Check out figure S9 to see how it lines up relative to other edge-level descriptions of neurodevelopment. From my nature comms paper.
 
 ![image](/images/OpFlSchematic.png)
 
-^^^ Optical flow can be used to delineate bottom-up and top-down hierarchical propagations in fMRI data. From my neuron paper.
+Optical flow can be used to delineate bottom-up and top-down hierarchical propagations in fMRI data. From my neuron paper.
 
 ![image](/images/PropsCommon.png)
 
-^^^ Both bottom-up and top-down propagations are common in all individuals we tested. 2 of 5 verifications of this finding depicted in this figure. From my neuron paper.
+Both bottom-up and top-down propagations are common in all individuals we tested. 2 of 5 verifications of this finding depicted in this figure. From my neuron paper.
 
 ![image](/images/DevelTopDown.png)
 
-^^^ Top-down propagations become increasingly prominent over neurodevelopment. Not pictured is the same results 100% holding after controlling for previously known properties of functional neurodevelopment. From my neuron paper. 
+Top-down propagations become increasingly prominent over neurodevelopment. Not pictured is the same results 100% holding after controlling for previously known properties of functional neurodevelopment. From my neuron paper. 
 
 ![image](/images/Multishell.png)
 
-^^^ Multi-shell diffusion weighted imaging can be leveraged to confer increased sensitivity to neurodevelopmental effects and decreased sensitivity to the confounding influence of head motion in neurodevelopmental studies. Schematic from my developmental cog. neurosci. paper.
+Multi-shell diffusion weighted imaging can be leveraged to confer increased sensitivity to neurodevelopmental effects and decreased sensitivity to the confounding influence of head motion in neurodevelopmental studies. Schematic from my developmental cog. neurosci. paper.
 
 |||
 
