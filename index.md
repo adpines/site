@@ -51,6 +51,10 @@ _“Every science begins as philosophy and ends as art"_
 
 > Cui, Pines, Larsen ... & Sattherthwaite, 2022
 
+### [Personalized Functional Brain Network Topography is Associated with Individual Differences in Youth Cognition](https://www.nature.com/articles/s41467-023-44087-0)
+
+> Keller, Pines, Sydnor ... & Satterthwaite
+
 ### [The ENGAGE study: Integrating neuroimaging, virtual reality and smartphone sensing to understand self-regulation for managing depression and obesity in a precision medicine model](https://linkinghub.elsevier.com/retrieve/pii/S0005796717302024)
 
 > Williams, Pines, Rosas ... & Ma, 2018
@@ -108,10 +112,6 @@ _“Every science begins as philosophy and ends as art"_
 > Richie-Halford, Cieslak, Ai ... & Rokem, 2022
 
 # Preprints
-
-### [Personalized Functional Brain Network Topography Predicts Individual Differences in Youth Cognition](https://www.biorxiv.org/content/10.1101/2022.10.11.511823v1)
-
-> Keller, Pines, Sydnor ... & Satterthwaite
 
 ### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.biorxiv.org/content/10.1101/2023.07.20.549090v1)
 
