@@ -47,13 +47,13 @@ _“Every science begins as philosophy and ends as art"_
 
 > Mehta, Pines, Adebimpe ... & Satterthwaite, 2023
 
-### [Linking Individual Differences in Personalized Functional Network Topography to Psychopathology in Youth](/https://www.sciencedirect.com/science/article/pii/S0006322322012513)
+### [Linking Individual Differences in Personalized Functional Network Topography to Psychopathology in Youth](https://www.sciencedirect.com/science/article/pii/S0006322322012513)
 
 > Cui, Pines, Larsen ... & Sattherthwaite, 2022
 
 ### [Personalized Functional Brain Network Topography is Associated with Individual Differences in Youth Cognition](https://www.nature.com/articles/s41467-023-44087-0)
 
-> Keller, Pines, Sydnor ... & Satterthwaite
+> Keller, Pines, Sydnor ... & Satterthwaite, 2023
 
 ### [The ENGAGE study: Integrating neuroimaging, virtual reality and smartphone sensing to understand self-regulation for managing depression and obesity in a precision medicine model](https://linkinghub.elsevier.com/retrieve/pii/S0005796717302024)
 
