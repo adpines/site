@@ -17,7 +17,7 @@ _“Every science begins as philosophy and ends as art"_
 
 > Pines, Tozzi, Bertrand ... & Williams
 
-> _[Replication Guide](https://github.com/WilliamsPanLab/gp)_
+> _[Replication Guide](https://github.com/WilliamsPanLab/gs)_
 
 ### [Development of Top-Down Cortical Propagations in Youth](https://www.cell.com/neuron/fulltext/S0896-6273(23)00038-7)
 
