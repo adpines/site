@@ -41,7 +41,7 @@ _“Every science begins as philosophy and ends as art"_
 
 > Pines, Sacchet, Kullar .... & Williams, 2018
 
-### Co-author
+### Second and Third Author
 
 ### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in children, adolescents, and adults](https://www.sciencedirect.com/science/article/pii/S1878929323000701?via%3Dihub)
 
@@ -55,9 +55,16 @@ _“Every science begins as philosophy and ends as art"_
 
 > Keller, Pines, Sydnor ... & Satterthwaite, 2023
 
+### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.nature.com/articles/s41467-024-47748-w)
+
+> Luo, Sydnor, Pines ... & Satterthwaite
+
 ### [The ENGAGE study: Integrating neuroimaging, virtual reality and smartphone sensing to understand self-regulation for managing depression and obesity in a precision medicine model](https://linkinghub.elsevier.com/retrieve/pii/S0005796717302024)
 
 > Williams, Pines, Rosas ... & Ma, 2018
+
+### [Personalized brain circuit scores characterize depression biotypes with distinct symptoms, behavioral profiles, and treatment outcomes: In press]()
+> Tozzi, Zhang, Pines ... & Williams, 2024
 
 ### [A public database of immersive VR videos with corresponding ratings of arousal, valence, and correlations between head movements and self report measures](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02116/full)
 
@@ -79,9 +86,15 @@ _“Every science begins as philosophy and ends as art"_
 
 > Keller, Sydnor, Pines ... & Satterthwaite, 2022
 
+### Middle Author
+
 ### [QSIPrep: An integrative platform for preprocessing and reconstructing diffusion MRI](https://www.nature.com/articles/s41592-021-01185-5)
 
 > Cieslak, Cook, He ... & Sattherthwaite, 2022
+
+### [A Precision Functional Atlas of Network Probabilities and Individual-Specific Network Topography](https://www.nature.com/articles/s41593-024-01596-5)
+
+> Hermosillo, Moore, Fezcko ... & Fair
 
 ### [Neurodevelopment of the association cortices: patterns, mechanisms, and implications for psychopathology](https://www.cell.com/neuron/fulltext/S0896-6273(21)00457-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627321004578%3Fshowall%3Dtrue)
 
@@ -99,6 +112,10 @@ _“Every science begins as philosophy and ends as art"_
 
 > Shanmugan, Seidlitz, Cui ... & Satterthwaite, 2021
 
+### [A general exposome factor explains individual differences in functional brain network topography and cognition in youth](https://www.sciencedirect.com/science/article/pii/S1878929324000318?via%3Dihub)
+
+> Keller, Moore, Luo ... & Barzilay
+
 ### [Mobile Footprinting: Linking Individual Distinctiveness in Mobility Patterns to Mood, Sleep, and Brain Functional Connectivity](https://www.nature.com/articles/s41386-022-01351-z)
 
 > Xia, Barnett, Tapera ... & Satterthwaite, 2022
@@ -113,25 +130,13 @@ _“Every science begins as philosophy and ends as art"_
 
 # Preprints
 
-### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.biorxiv.org/content/10.1101/2023.07.20.549090v1)
-
-> Luo, Sydnor, Pines ... & Satterthwaite
-
 ### [Compression supports low-dimensional representations of behavior across neural circuits](https://www.biorxiv.org/content/10.1101/2022.11.29.518415v1)
 
 > Zhou, Kim, Pines ... & Bassett
 
-### [A general exposome factor explains individual differences in functional brain network topography and cognition in youth](https://www.biorxiv.org/content/10.1101/2023.08.25.554893v1)
-
-> Keller, Moore, Luo ... & Barzilay
-
 ### [Connectional Hierarchy in Human Brain Revealed by Individual Variability of Functional Network Edges](https://www.biorxiv.org/content/10.1101/2023.03.08.531800v1.abstract)
 
 > Yang, Wu, Li ... & Cui
-
-### [A Precision Functional Atlas of Network Probabilities and Individual-Specific Network Topography](https://www.biorxiv.org/content/10.1101/2022.01.12.475422v1)
-
-> Hermosillo, Moore, Fezcko ... & Fair
 
 ### [Conserved whole-brain spatiomolecular gradients shape adult brain functional organization](https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1)
 
@@ -180,6 +185,4 @@ Top-down propagations become increasingly prominent over neurodevelopment. Not p
 Multi-shell diffusion weighted imaging can be leveraged to confer increased sensitivity to neurodevelopmental effects and decreased sensitivity to the confounding influence of head motion in neurodevelopmental studies. Schematic from my developmental cog. neurosci. paper.
 
 |||
-
-_"Every science begins as philosophy and ends as art; it arises in hypothesis and flows into achievement. Philosophy is a hypothetical interpretation of the unknown (as in metaphysics), or of the inexactly known (as in ethics or political philosophy); it is the front trench in the siege of truth. Science is the captured territory; and behind it are those secure regions in which knowledge and art build our imperfect and marvelous world" - Durant_
 
