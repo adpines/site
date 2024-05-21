@@ -55,16 +55,17 @@ _“Every science begins as philosophy and ends as art"_
 
 > Keller, Pines, Sydnor ... & Satterthwaite, 2023
 
-### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.nature.com/articles/s41467-024-47748-w)
-
-> Luo, Sydnor, Pines ... & Satterthwaite
-
 ### [The ENGAGE study: Integrating neuroimaging, virtual reality and smartphone sensing to understand self-regulation for managing depression and obesity in a precision medicine model](https://linkinghub.elsevier.com/retrieve/pii/S0005796717302024)
 
 > Williams, Pines, Rosas ... & Ma, 2018
 
 ### [Personalized brain circuit scores characterize depression biotypes with distinct symptoms, behavioral profiles, and treatment outcomes: In press]()
+
 > Tozzi, Zhang, Pines ... & Williams, 2024
+
+### [Functional Connectivity Development along the Sensorimotor-Association Axis Enhances the Cortical Hierarchy](https://www.nature.com/articles/s41467-024-47748-w)
+
+> Luo, Sydnor, Pines ... & Satterthwaite
 
 ### [A public database of immersive VR videos with corresponding ratings of arousal, valence, and correlations between head movements and self report measures](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02116/full)
 
