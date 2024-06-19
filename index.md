@@ -13,9 +13,11 @@ _“Every science begins as philosophy and ends as art"_
 
 ### First-author
 
-### [Co-existence of negative and positive associations between cognition and intergenerational psychiatric symptoms reveal necessity of socioeconomic and clinical enrichment](https://www.medrxiv.org/content/10.1101/2023.08.28.23294743v1)
+### [The relationship between cognition and psychiatric symptoms depends on symptom severity in children](https://www.medrxiv.org/content/10.1101/2023.08.28.23294743v1)
 
 > Pines, Tozzi, Bertrand ... & Williams
+
+> Updated manuscript in press, JAMA Psychiatry 
 
 > _[Replication Guide](https://github.com/WilliamsPanLab/gs)_
 
@@ -59,7 +61,7 @@ _“Every science begins as philosophy and ends as art"_
 
 > Williams, Pines, Rosas ... & Ma, 2018
 
-### [Personalized brain circuit scores characterize depression biotypes with distinct symptoms, behavioral profiles, and treatment outcomes: In press]()
+### [Personalized brain circuit scores characterize depression biotypes with distinct symptoms, behavioral profiles, and treatment outcomes](https://www.nature.com/articles/s41591-024-03057-9)
 
 > Tozzi, Zhang, Pines ... & Williams, 2024
 
