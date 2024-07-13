@@ -45,6 +45,12 @@ _“Every science begins as philosophy and ends as art"_
 
 ### Second and Third Author
 
+### Adaptive Changes in the Cognitive Control Brain Circuit Underlie and Predict Behavioral Outcomes for Depression over Two Years
+
+> Zhang, Pines, Stetz ... & Williams, 2024
+
+> In press, Science Translational Medicine 
+
 ### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in children, adolescents, and adults](https://www.sciencedirect.com/science/article/pii/S1878929323000701?via%3Dihub)
 
 > Mehta, Pines, Adebimpe ... & Satterthwaite, 2023
@@ -89,6 +95,12 @@ _“Every science begins as philosophy and ends as art"_
 
 > Keller, Sydnor, Pines ... & Satterthwaite, 2022
 
+### Mapping the Neurodevelopmental Predictors of Psychopathology
+
+> Jirsaraie, Gatavins, Pines ... & Sotiras, 2024
+
+> In press, Molecular Psychiatry
+
 ### Middle Author
 
 ### [QSIPrep: An integrative platform for preprocessing and reconstructing diffusion MRI](https://www.nature.com/articles/s41592-021-01185-5)
@@ -106,6 +118,10 @@ _“Every science begins as philosophy and ends as art"_
 ### [A Developmental Reduction of the Excitation:Inhibition Ratio in Association Cortex during Adolescence](https://www.science.org/doi/10.1126/sciadv.abj8750)
 
 > Larsen, Cui, Adebimpe ... & Satterthwaite, 2022
+
+### [Deciphering the functional specialization of whole-brain spatiomolecular gradients in the adult brain](https://www.pnas.org/doi/10.1073/pnas.2219137121)
+
+> Vogel, Alexander-Bloch, Wagstyl ... & Seidlitz
 
 ### [Characterizing the role of the structural connectome in seizure dynamics](https://academic.oup.com/brain/article/142/7/1955/5491072)
 
@@ -140,10 +156,6 @@ _“Every science begins as philosophy and ends as art"_
 ### [Connectional Hierarchy in Human Brain Revealed by Individual Variability of Functional Network Edges](https://www.biorxiv.org/content/10.1101/2023.03.08.531800v1.abstract)
 
 > Yang, Wu, Li ... & Cui
-
-### [Conserved whole-brain spatiomolecular gradients shape adult brain functional organization](https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1)
-
-> Vogel, Alexander-Bloch, Wagstyl ... & Seidlitz
 
 # About me
 
