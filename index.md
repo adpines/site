@@ -57,7 +57,7 @@ _“Every science begins as philosophy and ends as art"_
 
 ### [Linking Individual Differences in Personalized Functional Network Topography to Psychopathology in Youth](https://www.sciencedirect.com/science/article/pii/S0006322322012513)
 
-> Cui, Pines, Larsen ... & Sattherthwaite, 2022
+> Cui, Pines, Larsen ... & Satterthwaite, 2022
 
 ### [Personalized Functional Brain Network Topography is Associated with Individual Differences in Youth Cognition](https://www.nature.com/articles/s41467-023-44087-0)
 
@@ -105,7 +105,7 @@ _“Every science begins as philosophy and ends as art"_
 
 ### [QSIPrep: An integrative platform for preprocessing and reconstructing diffusion MRI](https://www.nature.com/articles/s41592-021-01185-5)
 
-> Cieslak, Cook, He ... & Sattherthwaite, 2022
+> Cieslak, Cook, He ... & Satterthwaite, 2022
 
 ### [A Precision Functional Atlas of Network Probabilities and Individual-Specific Network Topography](https://www.nature.com/articles/s41593-024-01596-5)
 
@@ -159,17 +159,17 @@ _“Every science begins as philosophy and ends as art"_
 
 # About me
 
-I'm a postdoctoral scholar at Stanford in the [Williams PanLab](https://williamspanlab.com/) researching how cognition and psychopathology interact in the developing brain. I recently completed a neuroscience PhD at the University of Pennsylvania with Ted Satterthwaite, where I studied normative neurocognitive development.
+I'm a postdoctoral scholar with Leanne Williams at Stanford in the [Williams PanLab](https://williamspanlab.com/) researching how cognition and psychopathology interact in the developing brain. I completed my neuroscience PhD at the University of Pennsylvania with Ted Satterthwaite, where I studied normative neurocognitive development.
 
-Out of respect for the complexity of the developing brain, I integrate across structural and functional neuroimages at multiple scales of analysis for broad and robust responses to my research questions. For example, [in this paper](https://www.nature.com/articles/s41467-022-30244-4), we wanted to use a precision network mapping approach to delineate individualized cortico-functional cogntiive development in youth. However, the cortex is organized into functional modules at multiple scales. By delineating personalized functional networks across coarse (e.g. 4 functional networks) to fine-grained partitions (e.g., 30 functional networks) in a large developmental cohort, we saw that individual variability in functional topography varies systematically across scales, and the development of functional networks unfolds differently at different scales, with coarse and fine-grained network development harboring distinct ramifications for neurocognitive development.
+My goal is to build the neuroscientific foundations needed to advance mental health care, and in parallel, to translate this research to meaningful real-world outcomes. I tend to focus on the interplay between mood disorders and cognitive dysfunctions, with specific expertise in how depression and cognitive functions emerge in adolescence. Neuroscientifically, many of these advances are rooted in hierarchical cortical organization and hierarchical cortical reorganization in development. 
 
-Out of respect for the scientific community and gratitude for previous generation of open-source scientific code, I've created walkthroughs for all of my code underlying every analysis in my first-author papers since learning how to code. All of the code within these walkthroughs (and the walkthroughs themselves) have been independently verified to work as intended by particularly stalwart co-authors. For example, [in this pre-print](https://www.biorxiv.org/content/10.1101/2022.06.14.496175v1), we were able to build off of fantastic code bases for spherical registration of cortical surfaces ([freesurfer](https://surfer.nmr.mgh.harvard.edu/)) and for [tracing the migration of progenitor cells on spherical zebrafish gastrulas](https://link.springer.com/article/10.1007/s10851-014-0513-4) to construct, validate, hypothesis-test with, and [dissemniate](https://github.com/PennLINC/DevProps) a pipeline for tracking and quantifying the hierarchical movement of cortical activity.
+Out of respect for the scientific community and gratitude for previous generations of open-source scientists, I've created walkthroughs for all of my code underlying every analysis in my first-author papers since learning how to code. All of the code within these walkthroughs (and the walkthroughs themselves) have been independently verified to work as intended by particularly stalwart co-authors. For example, [in this pre-print](https://www.biorxiv.org/content/10.1101/2022.06.14.496175v1), we were able to build off of fantastic code bases for spherical registration of cortical surfaces ([freesurfer](https://surfer.nmr.mgh.harvard.edu/)) and for [tracing the migration of progenitor cells on spherical zebrafish gastrulas](https://link.springer.com/article/10.1007/s10851-014-0513-4) to construct, validate, hypothesis-test with, and [disseminate](https://github.com/PennLINC/DevProps) a pipeline for tracking and quantifying the hierarchical movement of cortical activity.
 
-Outside of neuroscience, I am recently a lucky fiancé and a long-time mediocre improvisational musician, enjoy backpacking into the mountains with friends, am an ex-personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. 
+Outside of neuroscience, I'm a long-time mediocre improvisational musician, enjoy backpacking into the mountains with my soon-to-be-wife and friends, am an ex-personal trainer, and am active in the great American folk science of meat smoking. Thanks for visiting my page, and feel free to reach out for inquiries. Here are some findings I'd like to highlight:
 
-|||
+![image](/images/gp.png)
 
-Thanks for reading. Here are some findings I'd like to highlight:
+Whether cognition is positively or negatively associated with symptoms depends on the class and magnitude of symptoms. Positive and negative relationships are robust to bootstrapping across modeling techniques at >99% statistical confidence, but co-exist within the same class of symptoms. These results can explain dozens of discrepant papers, often with strong methods and large sample sizes, arguing that cognition is either negative or positively associated with depression symptoms. If you look more closely at these studies, you'll see the papers arguing for a positive association (higher cognitive scores = higher symptom scores) are almost all in subclinical samples, whereas papers arguing for negative associations (higher cognitive scores = lower symptom scores) are almost all in clinical samples. Both sets of papers are "correct", but relying on linear models in samples that did not cover the full spectrum of mental health obscured that the association between cognition and internalizing symptoms depends on how well or unwell an individual is. Dashed lines represent borderline and clinical thresholds from the CBCL. From my JAMA psych paper.
 
 ![image](/images/IndivVar.png)
 
@@ -181,7 +181,7 @@ Functional differentiation proceeds from lower-order to higher-order cortices in
  
 ![image](/images/HierarchicalDistance.png)
 
-Hierarchical distance provides a parsimonious description of how individual edges in the functional connectome develop. Check out figure S9 to see how it lines up relative to other edge-level descriptions of neurodevelopment. From my nature comms paper.
+Hierarchical distance provides a parsimonious description of how individual edges in the functional connectome develop. This pattern has since been replicated in 4 independent datasets (Luo et al., 2024, Nat. Comms). Check out figure S9 from my paper (also Nat. Comms, 2022) to see how it lines up relative to other edge-level descriptions of neurodevelopment.
 
 ![image](/images/OpFlSchematic.png)
 
