@@ -13,11 +13,9 @@ _“Every science begins as philosophy and ends as art"_
 
 ### First-author
 
-### [The relationship between cognition and psychiatric symptoms depends on symptom severity in children](https://www.medrxiv.org/content/10.1101/2023.08.28.23294743v1)
+### [Psychiatric Symptoms, Cognition, and Symptom Severity in Children](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2822689)
 
-> Pines, Tozzi, Bertrand ... & Williams
-
-> Updated manuscript in press, JAMA Psychiatry 
+> Pines, Tozzi, Bertrand ... & Williams, 2024 
 
 > _[Replication Guide](https://github.com/WilliamsPanLab/gs)_
 
