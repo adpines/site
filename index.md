@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_“Every science begins as philosophy and ends as art"_
+_“Every science begins as philosophy and ends as art"_  -  Durant  
 
 [CV](./images/OnlinePinesCV.pdf) ||| 
 [github](https://github.com/adpines) ||| 
