@@ -43,11 +43,9 @@ _“Every science begins as philosophy and ends as art"_
 
 ### Second and Third Author
 
-### Adaptive Changes in the Cognitive Control Brain Circuit Underlie and Predict Behavioral Outcomes for Depression over Two Years
+### [Adaptive cognitive control circuit changes associated with problem-solving ability and depression symptom outcomes over 24 months](https://www.science.org/doi/10.1126/scitranslmed.adh3172)
 
 > Zhang, Pines, Stetz ... & Williams, 2024
-
-> In press, Science Translational Medicine 
 
 ### [Individual Differences in Delay Discounting are Associated with Dorsal Prefrontal Cortex Connectivity in children, adolescents, and adults](https://www.sciencedirect.com/science/article/pii/S1878929323000701?via%3Dihub)
 
@@ -73,10 +71,6 @@ _“Every science begins as philosophy and ends as art"_
 
 > Luo, Sydnor, Pines ... & Satterthwaite
 
-### [A public database of immersive VR videos with corresponding ratings of arousal, valence, and correlations between head movements and self report measures](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02116/full)
-
-> Li, Bailenson, Pines ... & Williams, 2017
-
 ### [Pairwise maximum entropy model explains the role of white matter structure in shaping emergent co-activation states](https://www.nature.com/articles/s42003-021-01700-6)
 
 > Ashourvan, Shah, Pines ... & Litt, 2021
@@ -93,11 +87,13 @@ _“Every science begins as philosophy and ends as art"_
 
 > Keller, Sydnor, Pines ... & Satterthwaite, 2022
 
-### Mapping the Neurodevelopmental Predictors of Psychopathology
+### [Mapping the Neurodevelopmental Predictors of Psychopathology](https://www.nature.com/articles/s41380-024-02682-7)
 
 > Jirsaraie, Gatavins, Pines ... & Sotiras, 2024
 
-> In press, Molecular Psychiatry
+### [A public database of immersive VR videos with corresponding ratings of arousal, valence, and correlations between head movements and self report measures](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02116/full)
+
+> Li, Bailenson, Pines ... & Williams, 2017
 
 ### Middle Author
 
