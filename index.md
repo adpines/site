@@ -153,7 +153,7 @@ _“Every science begins as philosophy and ends as art"_  -  Durant
 
 # About me
 
-I'm a postdoctoral scholar with Leanne Williams at Stanford in the [Williams PanLab](https://williamspanlab.com/) researching how cognition and psychopathology interact in the developing brain. I completed my neuroscience PhD at the University of Pennsylvania with Ted Satterthwaite, where I studied normative neurocognitive development.
+I'm a postdoctoral scholar with Anish Mitra and Nolan Williams at Stanford researching how neuropsychopathology emerges and remits the developing brain. I completed my neuroscience PhD at the University of Pennsylvania with Ted Satterthwaite, where I studied normative neurocognitive development.
 
 My goal is to build the neuroscientific foundations needed to advance mental health care, and in parallel, to translate this research to meaningful real-world outcomes. I tend to focus on the interplay between mood disorders and cognitive dysfunctions, with specific expertise in how depression and cognitive functions emerge in adolescence. Neuroscientifically, many of these advances are rooted in hierarchical cortical organization and hierarchical cortical reorganization in development. 
 
