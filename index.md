@@ -8,10 +8,17 @@ _“Every science begins as philosophy and ends as art"_  -  Durant
 [github](https://github.com/adpines) ||| 
 [google scholar](https://scholar.google.com/citations?user=3Uw1edAAAAAJ&hl=en) |||
 [twitter](https://twitter.com/pineurosci) ||| 
+[bluesky](https://bsky.app/profile/pineurosci.bsky.social)
 
 # Publications
 
 ### First-author
+
+### [Psychedelics disrupt hierarchical cortical propagations in the default mode network of humans and mice](https://www.pnas.org/doi/10.1073/pnas.2522000123)
+
+> Pines, Zhang, Kochalka ... & Williams, 2026
+
+> _[Replication Guide](https://github.com/WilliamsPanLab/PsychedProps)_
 
 ### [Psychiatric Symptoms, Cognition, and Symptom Severity in Children](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2822689)
 
